@@ -13,16 +13,16 @@ var firebaseConfig = {
 firebase.initializeApp(firebaseConfig);
 
 
-var messagesRef = firebase.database().ref("messages");
+let messagesRef = firebase.database().ref("messages");
 
 document.getElementById("contactForm").addEventListener("submit", submitForm);
 
 function submitForm(e) {
-  var name = getInputVal("name");
-  var company = getInputVal("company");
-  var email = getInputVal("email");
-  var phone = getInputVal("phone");
-  var message = getInputVal("message");
+  let name = getInputVal("name");
+  let company = getInputVal("company");
+  let email = getInputVal("email");
+  let phone = getInputVal("phone");
+  let message = getInputVal("message");
 
   saveMessage(name, company, email, phone, message);
   alert("Success! Message sent, thank you!");
@@ -33,7 +33,7 @@ function getInputVal(id) {
 }
 
 function saveMessage(name, company, email, phone, message) {
-  var newMessageRef = messagesRef.push();
+  let newMessageRef = messagesRef.push();
   newMessageRef.set({
     name: name,
     company: company,
