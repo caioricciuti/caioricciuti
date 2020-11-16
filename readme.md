@@ -18,7 +18,7 @@ I’m a Junior programmer with some experience in web development. I love open s
 
 Be able to:
 * Build a [Django](https://djangoproject.com/) JSON API
-* Create a [React.js](https://react.org/) web front-end
+* Create a [React.js](https://reactjs.org/) web front-end
 
 ## Let's stay in touch!
 * [LinkedIn](https://www.linkedin.com/in/caioricciuti)
