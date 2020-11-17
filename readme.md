@@ -1,6 +1,6 @@
 # Hey! My name is Caio Ricciuti 👋
 ## About me
-I’m a Junior programmer with some experience in web development. I love open source and I do my best to contribute!
+I’m a Junior Python developer with some experience in web development with Django Framework. I love open source and I do my best to contribute!
 
 ## Current working on:
 <p>
@@ -22,4 +22,4 @@ Be able to:
 
 ## Let's stay in touch!
 * [LinkedIn](https://www.linkedin.com/in/caioricciuti)
-* [Personal Blog](https://caioricciuti.com/?utm_source=girhubreademe)
+* [Personal website](https://caioricciuti.com/?utm_source=girhubreademe)
