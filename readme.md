@@ -17,8 +17,10 @@ I’m a Junior web developer with some experience in Python with Django Framewor
 ## My Next Step(s)
 
 Be able to:
-* Build a [Django](https://djangoproject.com/) JSON API
-* Create a [React.js](https://reactjs.org/) web front-end
+* [x] Build a [Django](https://djangoproject.com/) Rest API ()
+* [] Create a [React.js](https://reactjs.org/) web front-end
+* [] Create a [React.js](https://reactjs.org/) web front-end and connect to NODE.JS + Express server (CRUD)
+
 
 ## Let's stay in touch!
 * [LinkedIn](https://www.linkedin.com/in/caioricciuti)
