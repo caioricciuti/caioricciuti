@@ -1,6 +1,6 @@
 # Hey! My name is Caio Ricciuti 👋
 ## About me
-I’m a Junior Python developer with some experience in web development with Django Framework. I love open source and I do my best to contribute!
+I’m a Junior web developer with some experience in Python with Django Framework and JS with Node,js and express . I love open source and I do my best to contribute. 
 
 ## Current working on:
 <p>
