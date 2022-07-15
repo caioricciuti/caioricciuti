@@ -13,7 +13,7 @@ Always learning new things!
 
 ## Current working on:
 <p>
-    <a href="https://caioricciuti.com/?utm_source=githubreadme" target="_blank"><img width="50" src="https://caioricciuti.com/assets/img/favicon-32x32.png"></a><br/>
+    <a href="https://caioricciuti.com/" target="_blank"><img width="50" src="https://caioricciuti.com/assets/img/logo.png"></a><br/>
     That's my personal website, check it out! 
 </p>
 
