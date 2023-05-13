@@ -24,4 +24,4 @@ I appreciate you taking the time to learn more about me, and I'm excited you rea
 - 🌐 Personal Web: [caioricciuti.com](https://caioricciuti.com)
 - 🐦 Twitter: [@caioricciuti](https://twitter.com/caioricciuti)
 - 💼 LinkedIn: [linkedin.com/in/caioricciuti](https://linkedin.com/in/caioricciuti)
-- 📁 GitHub: [github.com/caioricciuti](https://github.com/caioricciuti)
+- 📁 GitHub: [You are here, why not refesh the page? Go ahead! Click me! :)](https://github.com/caioricciuti)
