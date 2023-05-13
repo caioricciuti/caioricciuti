@@ -1,6 +1,6 @@
-# Caio Ricciuti  🚀
+# Hi there! 👋
 
-Hi there! 👋 I'm **Caio Ricciuti**, a highly motivated and self-taught web developer with a knack for creating stunning web applications / micro-services using **Node.js** . I'm dedicated to my craft and always eager to learn new technologies to stay ahead of the curve. It's great to have you here! Read on to discover more about me!
+I'm **Caio Ricciuti**, a highly motivated and self-taught web developer with a knack for creating stunning web applications / micro-services using **Node.js** . I'm dedicated to my craft and always eager to learn new technologies to stay ahead of the curve. It's great to have you here! Read on to discover more about me!
 
 ## 🌟 Always trying my best!
 
@@ -21,7 +21,7 @@ I appreciate you taking the time to learn more about me, and I'm excited you rea
 
 ## 📬 Get in Touch
 
-- 🌐 Personal Web: [caioricciuti.con](https://caioricciuti.com)
+- 🌐 Personal Web: [caioricciuti.com](https://caioricciuti.com)
 - 🐦 Twitter: [@caioricciuti](https://twitter.com/caioricciuti)
 - 💼 LinkedIn: [linkedin.com/in/caioricciuti](https://linkedin.com/in/caioricciuti)
 - 📁 GitHub: [github.com/caioricciuti](https://github.com/caioricciuti)
