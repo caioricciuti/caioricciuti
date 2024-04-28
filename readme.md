@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Caio Ricciuti**, a highly motivated and self-taught web developer with a knack for creating stunning web applications / micro-services using **Node.js** . I'm dedicated to my craft and always eager to learn new technologies to stay ahead of the curve. It's great to have you here! Read on to discover more about me!
+I'm **Caio Ricciuti**, a highly motivated and self-taught data data engineer with a knack for creating stunning web applications/micro-services using **Node.js** and **Python**. I'm dedicated to my craft and always eager to learn new technologies to stay ahead of the curve. It's great to have you here! Read on to discover more about me!
 
 ## 🌟 Always trying my best!
 
@@ -22,6 +22,6 @@ I appreciate you taking the time to learn more about me, and I'm excited you rea
 ## 📬 Get in Touch
 
 - 🌐 Personal Web: [caioricciuti.com](https://caioricciuti.com)
-- 🐦 Twitter: [@caioricciuti](https://twitter.com/caioricciuti)
+- 𝕏 X: [@caioricciuti](https://x.com/caioricciuti)
 - 💼 LinkedIn: [linkedin.com/in/caioricciuti](https://linkedin.com/in/caioricciuti)
 - 📁 GitHub: [You are here, why not refesh the page? Go ahead! Click me! :)](https://github.com/caioricciuti)
