@@ -2,18 +2,18 @@
 
 Data Engineer | Developer (kinda of...) | Open Source ❤️ 
 
-Data engineer and maybe, web developer with a strong focus on building robust, efficient, and user-friendly data solutions.
+Data engineer and hopefully a good, software developer with a strong focus on building robust, efficient, and straight to use data solutions.
 
-I enjoy building and being part of open-source projects, particularly web interfaces for databases, aiming to make complex data interactions more accessible and intuitive!
+I enjoy building and being part of open-source projects, aiming to make complex data interactions more accessible and intuitive.
 
 ## Some things that I do...
 
 *   **Cloud Platforms:** Google Cloud Platform (GCP) (BigQuery, Cloud Functions, Pub/Sub...) 
-*   **Languages:** Python, JS/TS (Node.js), SQL
-*   **Data Engineering:** ETL Processes, Data Pipeline Development, Data Lake Management
+*   **Languages:** Python, JS/TS (Node.js/Deno), SQL...
+*   **Data Engineering:** ETL Processes, Data Pipeline Development, Data Lake Management...
 *   **OLAP:** ClickHouse, DuckDB, BigQuery and some other OLAP's...
-*   **DBs:** Postgres, MySql, MongoDB...
-*   **Other** Microservices Architecture, REST APIs
+*   **DBs:** Postgres, MySql, MongoDB, SQlite.
+*   **Other** Microservices Architecture, REST APIs...
 
 ## Featured Projects
 
