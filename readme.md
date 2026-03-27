@@ -1,36 +1,51 @@
-# Caio Ricciuti
+# Hey, I'm Caio 👋
 
-Data Engineer | Developer (kinda of...) | Open Source ❤️ 
+I build the interfaces that data infrastructure forgot to ship.
 
-Data engineer and hopefully a good, software developer with a strong focus on building robust, efficient, and straight to use data solutions.
+Most databases are incredibly powerful and incredibly painful to use.
+I fix that.
 
-I enjoy building and being part of open-source projects, aiming to make complex data interactions more accessible and intuitive.
+---
 
-## Some things that I do...
+## What I'm building
 
-*   **Cloud Platforms:** Google Cloud Platform (GCP) (BigQuery, Cloud Functions, Pub/Sub...) 
-*   **Languages:** Python, JS/TS (Node.js/Deno), SQL...
-*   **Data Engineering:** ETL Processes, Data Pipeline Development, Data Lake Management...
-*   **OLAP:** ClickHouse, DuckDB, BigQuery and some other OLAP's...
-*   **DBs:** Postgres, MySql, MongoDB, SQlite.
-*   **Other** Microservices Architecture, REST APIs...
+| Project | What it is 
+|---|---|
+| [Glyphic](https://github.com/caioricciuti/glyphic) | Desktop GUI for Claude Code — manage settings, hooks, MCP servers, session replay, analytics |
+| [CH-UI](https://github.com/caioricciuti/ch-ui) | The ClickHouse UI that should have shipped with ClickHouse |
+| [Duck-UI](https://github.com/ibero-data/duck-ui) | DuckDB in your browser. Zero server. Pure WASM. |
+| [Dev Cockpit](https://github.com/caioricciuti/dev-cockpit) | Real-time system monitor for Apple Silicon + Linux |
 
-## Featured Projects
+---
 
-### [CH-UI](https://github.com/caioricciuti/ch-ui)
+## What I actually do
 
-A modern, feature-rich web interface for ClickHouse databases, providing an intuitive platform for managing databases, executing queries, and visualizing metrics.
+- Data infrastructure consulting — ClickHouse, DuckDB, BigQuery, (OLAP's( real-time and batches pipelines
+- Full-stack product engineering with a focus on data tools
+- Open source
 
-### [Duck-UI](https://github.com/caioricciuti/duck-ui)
+I've spent years watching teams stitch together 6 tools to do what 1 should do.
+So I build the 1.
 
-A web-based interface for interacting with DuckDB, a high-performance analytical database system. It leverages DuckDB's WASM capabilities to provide a seamless and efficient user experience directly in the browser.
+---
 
-## Languages
+## Stack I reach for
+```
+Languages:   TypeScript · Python · Rust · Go · SQL
+Data:        ClickHouse · DuckDB · Postgres · BigQuery
+Infra:       Docker · GCP · self-hosted everything
+Frontend:    Svelte · React · Tauri 
+```
 
-*   English (Fluent)
-*   Spanish (Fluent)
-*   Portuguese (Native)
+---
 
-## Let's Connect!
+## Where to find me
 
-I'm always open to connecting with other data enthusiasts.  Feel free to reach out!
+- 🌐 [caioricciuti.com](https://caioricciuti.com)
+- 💼 [LinkedIn](https://linkedin.com/in/caio-ricciuti) — consulting, data infra, building in public
+- 🐦 [X @caioricciuti](https://x.com/caioricciuti) — hot takes and shipping updates
+- 📧 available for consulting engagements
+
+---
+
+* Zero VC funding. Built because the problems were real.*
